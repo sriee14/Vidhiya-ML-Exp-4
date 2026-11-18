@@ -60,6 +60,8 @@ plt.ylabel('TPR'); plt.title('ROC Curve'); plt.show()
 
 ## OUTPUT:
 
+<img width="567" height="455" alt="download (1)" src="https://github.com/user-attachments/assets/afe12709-f84a-4238-9f4d-34217de3aa8a" />
+
 
 
 ```
